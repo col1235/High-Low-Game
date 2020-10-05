@@ -1,0 +1,7 @@
+P:\Digital\VS\18Charlie Good\High Low Game\High Low Game\obj\Debug\High Low Game.csprojAssemblyReference.cache
+P:\Digital\VS\18Charlie Good\High Low Game\High Low Game\obj\Debug\High Low Game.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Charlie Good\High Low Game\High Low Game\bin\Debug\High Low Game.exe.config
+P:\Digital\VS\18Charlie Good\High Low Game\High Low Game\bin\Debug\High Low Game.exe
+P:\Digital\VS\18Charlie Good\High Low Game\High Low Game\bin\Debug\High Low Game.pdb
+P:\Digital\VS\18Charlie Good\High Low Game\High Low Game\obj\Debug\High Low Game.exe
+P:\Digital\VS\18Charlie Good\High Low Game\High Low Game\obj\Debug\High Low Game.pdb
